@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.svg" alt="MooSaver banner" width="100%">
+
 # 🐄 MooSaver
 
 **一鍵批次備份 Moodle 課程資源的自架下載工具**
